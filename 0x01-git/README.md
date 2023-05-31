@@ -1,1 +1,1 @@
-My second readme
+You can do hard things.
